@@ -7,5 +7,5 @@
                  <p> Resultado: </p>
                  
 
-                 ![Resultados - Dia 1](https://user-images.githubusercontent.com/112342523/228334881-72a98559-f625-41cd-99e3-240600c318d5.png)
+                ![Resultados - Dia 1](https://user-images.githubusercontent.com/112342523/228336393-bbbfa196-12da-43b7-a8e3-a2d46477e999.png)
 
