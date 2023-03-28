@@ -9,7 +9,7 @@ import java.util.Map;
 public class App {
     public static void main(String[] args) throws Exception { 
         //inicializando a conexao HTTP com a api para implementar os top 250 filmes.
-        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json"; //main url for search.
+        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json"; //main url for search.
         URI adress = URI.create(url);  //URI é uma forma de usar o url completo.
         HttpClient client = HttpClient.newHttpClient(); //criando um httpClient que foi colocado em umna variavel.
         HttpRequest request = HttpRequest.newBuilder(adress).GET().build(); //criando um httpRequest, sendo seu builder o proprio URI.
@@ -23,7 +23,8 @@ public class App {
         //System.out.println(filmsList.get(0)); essa linha pega o primeiro filme, da filmslist que esta na posicao 0 e nos mostra no cmd.
 
         //exibir e manipular dados
-        System.out.println("\uD83E\uDD47\u001b[4m\u001b[1m\u001b[31m Top 10 - Films:\u001b[m\n");
+        System.out.println();
+        System.out.println("\uD83E\uDD47\u001b[4m\u001b[1m\u001b[31m Top 10 - TV's Shows:\u001b[m\n");
         for(Map<String,String> films : filmsList) { //esta pegando no Map string e indicando que mostraremos os filmes
             System.out.println("\u001b[1m\u001b[4m\u001b[32mRank:\u001b[m " + films.get("rank"));
             System.out.println("\u001b[1m\u001b[4m\u001b[90mTitle:\u001b[m " + films.get("fullTitle")); //printando a key que foi pega no films, nesse caso o fulltitle e assim por diante.
