@@ -5,7 +5,4 @@
                  <p>• Além da utilização da biblioteca Gson do google para desserializar o JSON da requisição e armazenar as informções em objetos Java.</p>
                  
                  <p> Resultado: </p>
-                 
-
-                ![Resultados - Dia 1](https://user-images.githubusercontent.com/112342523/228336393-bbbfa196-12da-43b7-a8e3-a2d46477e999.png)
 
