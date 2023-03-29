@@ -11,7 +11,7 @@ import java.util.Map;
 public class App {
     public static void main(String[] args) throws Exception { 
         //inicializando a conexao HTTP com a api para implementar os top 250 filmes.
-        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json"; //main url for search.
+        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json"; //main url for search.
         URI adress = URI.create(url);  //URI é uma forma de usar o url completo.
         HttpClient client = HttpClient.newHttpClient(); //criando um httpClient que foi colocado em umna variavel.
         HttpRequest request = HttpRequest.newBuilder(adress).GET().build(); //criando um httpRequest, sendo seu builder o proprio URI.
