@@ -7,5 +7,18 @@
                  <img src="https://user-images.githubusercontent.com/112342523/228338346-3439d6e7-71ba-4bd1-bbec-3f7c2a8cdb44.png" width="500" height "500">
                  <img src="https://user-images.githubusercontent.com/112342523/228338930-14d0e8bc-61d3-4ff4-be6d-de75be398eb1.png" width="500" height "500"</br></br>
                  <p> 🏁 <b>Dia 2:</b> <p>
+                 <p> • Com o auxílio dos pacotes java.awt, java.io e java.ImageIO foi possível realizar a edição das imagens e a inserção de textos.</p>
+                 <p> • Uma classificação baseada no IMDB foi aplicada, filmes com baixa pontuação: "É PAIA", e os filmes de maior pontuação "É DENTRO!". A mesma metodologia foi aplicada aos programas de Tv.</p>
+                 <p> • Para persistência dos dados foi criada uma pasta saida/imdb onde as figurinhas geradas podem ser exportadas no formato png.</p>
+                 <p> <b>Resultados(Filmes):</b> </p>
+                 <img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Stranger%20Things.png?raw=true" width="200" height "200">
+                 <img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Boys.png?raw=true" width="200" height "200">
+                 <img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Terminal%20List.png?raw=true" width="200" height "200">
+                 
+                 <p> <b>Resultados(TV's Shows):</b> </p>
+                 <img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Stranger%20Things.png?raw=true" width="200" height "200">
+                 <img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Boys.png?raw=true" width="200" height "200">
+                 <img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Terminal%20List.png?raw=true" width="200" height "200">
+           
 
 
