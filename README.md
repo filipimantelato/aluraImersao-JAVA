@@ -17,10 +17,18 @@
                  <p> <b>Resultados(Filmes):</b> </p>
                  <table>
                     <tr>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Pulp%20Fiction.png?raw=true" width="200" height "200"/></td>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Godfather.png?raw=true" width="200" height "200"/></td>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Shawshank%20Redemption.png?raw=true" width="200" height "200"/</td>                                           </tr>
+                </table>
+                 <p> <b>Resultados(TV's Shows):</b> </p>
+                 <table>
+                    <tr>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Stranger%20Things.png?raw=true" width="200" height "200"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Boys.png?raw=true" width="200" height "200"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Terminal%20List.png?raw=true" width="200" height "200"/</td>                                           </tr>
                 </table>
+                
 
            
 
