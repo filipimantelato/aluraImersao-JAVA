@@ -28,7 +28,10 @@
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Boys.png?raw=true" width="200" height "200"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Terminal%20List.png?raw=true" width="200" height "200"/</td>                                           </tr>
                 </table>
-                
+                <p></br></br> 🏁 <b>Dia 2:</b> <p>
+                 <p> • Com o auxílio dos pacotes java.awt, java.io e java.ImageIO foi possível realizar a edição das imagens e a inserção de textos.</p>
+                 <p> • Uma classificação baseada no IMDB foi aplicada, filmes com baixa pontuação: "É PAIA", e os filmes de maior pontuação "É DENTRO!". A mesma metodologia foi aplicada aos programas de Tv.</p>
+                 <p> • Para persistência dos dados foi criada uma pasta saida/imdb onde as figurinhas geradas podem ser exportadas no formato png.</p>
 
            
 
