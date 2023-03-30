@@ -41,7 +41,7 @@ public class stickerGenerator {
         graphics.drawImage(imgOriginal, 0, 0, null);
 
         //configurar a fonte
-        var font = new Font("Comic Sans MS", Font.BOLD, 100);
+        var font = new Font("Comic Sans MS", Font.BOLD, 60);
         graphics.setColor(Color.YELLOW);
         graphics.setFont(font);
 
