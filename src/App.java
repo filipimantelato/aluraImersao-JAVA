@@ -13,8 +13,8 @@ public class App {
         //String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/NASA-APOD.json"; //main url for search.
         //ExtratorConteudo extrator= new ExtratorNasa();
 
-        //API api = API.IMDB_TOP_MOVIES;
-        API api = API.NASA;
+        API api = API.IMDB_TOP_MOVIES;
+        //API api = API.NASA;
         String url = api.getUrl();
         ExtratorConteudo extrator= api.getExtrator();
 
