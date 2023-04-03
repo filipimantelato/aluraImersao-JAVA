@@ -39,7 +39,15 @@
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Find%20the%20Man%20in%20the%20Moon.png?raw=true" width="400" height "400" align="center"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Satellites%20Behind%20Pinnacles.png?raw=true" width="400" height "400" align="center"/></td>                                        
                    </tr>
-                </table>                                                                                                                
-
+                </table>    
+                <p></br></br> 🏁 <b>Dia 4:</b> <p>
+                <p> • Uma API foi desenvolvida com Spring Boot e MongoDB contendo logos de linguagens de programação. E por fim foram geradas figurinhas com as imagens extraídas da API seguindo o mesmo modelo dos exemplos anteriores.</p>
+                <table align="center">
+                    <tr>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Java.png" width="200" height "200"/></td>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/PHP.png" width="200" height "200"/></td>
+                    </tr>
+                </table>
+          
 
 
