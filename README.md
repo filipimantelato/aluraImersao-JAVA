@@ -12,12 +12,12 @@
                  </table>
                  <p></br></br> 🏁 <b>Dia 2:</b> <p>
                  <p> • Com o auxílio dos pacotes java.awt, java.io e java.ImageIO foi possível realizar a edição das imagens e a inserção de textos.</p>
-                 <p> • Uma classificação baseada no IMDB foi aplicada, filmes com baixa pontuação: "É PAIA", e os filmes de maior pontuação "É DENTRO!". A mesma metodologia foi aplicada aos programas de Tv.</p>
+                 <p> • Também foi colocado como saída juntamente com o poster, o título do filme/série em questão.</p>
                  <p> • Para persistência dos dados foi criada uma pasta saida/imdb onde as figurinhas geradas podem ser exportadas no formato png.</p>
                  <p> <b>Resultados(Filmes):</b> </p>
                  <table>
                     <tr>
-                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Pulp%20Fiction.png?raw=true" width="200" height "200"/></td>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Dark%20Knight.png?raw=true" width="200" height "200"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Godfather.png?raw=true" width="200" height "200"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Shawshank%20Redemption.png?raw=true" width="200" height "200"/</td>                                           </tr>
                 </table>
@@ -28,11 +28,18 @@
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Boys.png?raw=true" width="200" height "200"/></td>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/The%20Terminal%20List.png?raw=true" width="200" height "200"/</td>                                           </tr>
                 </table>
-                <p></br></br> 🏁 <b>Dia 2:</b> <p>
-                 <p> • Com o auxílio dos pacotes java.awt, java.io e java.ImageIO foi possível realizar a edição das imagens e a inserção de textos.</p>
-                 <p> • Uma classificação baseada no IMDB foi aplicada, filmes com baixa pontuação: "É PAIA", e os filmes de maior pontuação "É DENTRO!". A mesma metodologia foi aplicada aos programas de Tv.</p>
-                 <p> • Para persistência dos dados foi criada uma pasta saida/imdb onde as figurinhas geradas podem ser exportadas no formato png.</p>
+                <p></br></br> 🏁 <b>Dia 3:</b> <p>
+                 <p> • O código foi aprimorado com o objetivo de simplificar a aplicação utilizando a programação orientada a objetos como o polimorfismo.</p>
+                 <p> • Para que isso, foram implementadas as ferramentas <b>Record</b>, <b> Interface</b> e <b> Enum</b>.</p>
+                 <p> • Também foi utilizado a ferramenta <b> Excalidraw </b>para criar um mapa da ordem que é seguida quando o programa é executado. Assim que o programa executa, a classe <b> APP </b> faz conexão com a classe <b> API </b> onde é solicitado a URL e qual extrator será usado na execução. Após ser definido qual extrador sera utilizado dentre os dois existentes, a interface <b> ExtratorConteudo </b> é solicitada, devolvendo assim a lista de conteúdos do documento JSON por meio da classe <b> clientHttp </b>. Por fim a classe <b> APP </b> utiliza os metodos da classe <b> stickerGenerator </b> passando o conteúdo e retornando a figurinha com a mensagem desejada.</p>
+                 <img src="https://user-images.githubusercontent.com/112342523/228933486-5f8433b4-e6a3-4965-91f8-07232c08852f.png"/>
+                 <p> <b>Resultado:</b> </p>    
+                 <table align="center">
+                    <tr>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Find%20the%20Man%20in%20the%20Moon.png?raw=true" width="400" height "400" align="center"/></td>
+                    <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Satellites%20Behind%20Pinnacles.png?raw=true" width="400" height "400" align="center"/></td>                                        
+                   </tr>
+                </table>                                                                                                                
 
-           
 
 
