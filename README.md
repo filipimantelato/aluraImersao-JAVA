@@ -42,6 +42,9 @@
                 </table>    
                 <p></br></br> 🏁 <b>Dia 4:</b> <p>
                 <p> • Uma API foi desenvolvida com Spring Boot e MongoDB contendo logos de linguagens de programação. E por fim foram geradas figurinhas com as imagens extraídas da API seguindo o mesmo modelo dos exemplos anteriores.</p>
+                <p> • A ferramenta Postman que um é software para realizar busca de dados, inserir, deletar por meio dos endopoints da aplicação, também foi utilizada nesse projeto. Essa ferramenta possui uma gama de funcionalidades para realizar testes em uma API.</p>
+                <img src="https://user-images.githubusercontent.com/112342523/229817699-a571fdba-16cb-45ae-88d5-f074e2620816.png"/>
+                <p> <b>Resultado:</b> </p> 
                 <table align="center">
                     <tr>
                     <td><img src="https://github.com/filipimantelato/aluraImersao-JAVA/blob/main/saida/Java.png" width="200" height "200"/></td>
